@@ -62,5 +62,6 @@
     <None Include="LoginandAuthoration.sql" />
     <None Include="SqlLoginData.sql" />
     <None Include="CustomerCard.sql" />
+    <None Include="AddressBook.sql" />
   </ItemGroup>
 </Project>

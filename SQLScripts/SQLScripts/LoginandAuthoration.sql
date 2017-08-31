@@ -22,3 +22,7 @@ CREATE TABLE UserAuthorization (
 
 );
 
+
+ALTER TABLE Worker
+ADD isActive nvarchar(3)
+
